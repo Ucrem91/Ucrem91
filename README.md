@@ -24,7 +24,7 @@ This is my personal space for open-source projects, experiments, and contributio
 | Operating systems | Linux, macOS, Windows |
 | Virtualization | Hyper-V, Proxmox, VMware |
 | Containers & cloud | Docker, Kubernetes, AWS |
-| Databases | MongoDB, PostgreSQL |
+| Databases | MongoDB, PostgreSQL, MySQL |
 | Web | JavaScript, TypeScript, React |
 | Desktop & tooling | Rust, Tauri, Python |
 
